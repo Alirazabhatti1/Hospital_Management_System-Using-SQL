@@ -5,7 +5,8 @@
 Welcome to the **Hospital Management System** (HMS) project! This is a **PostgreSQL**-based database system created to manage patient data efficiently, focusing on core operations such as Create, Read, Update, and Delete (CRUD). Using pgAdmin 4, I developed a clean and robust relational database that enables easy patient management and data optimization for healthcare settings.
 
 🔧 **Key Features**
-**Patient Data Management:** Efficient tracking and managing of essential patient details (e.g., Name, Age, Contact, Medical History).
+**Patient Data Management:** 
+Efficient tracking and managing of essential patient details (e.g., Name, Age, Contact, Medical History).
 **CRUD Operations:** Full CRUD functionality to allow seamless data management.
 **Data Integrity:** Carefully implemented constraints and operations for maintaining high data integrity.
 **Optimized Database:** Query optimizations for fast and efficient data access.
