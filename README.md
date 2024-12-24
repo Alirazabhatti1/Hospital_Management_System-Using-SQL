@@ -78,16 +78,29 @@ Here are snapshots from the project:
 
 💡 **Future Enhancements**
 
-🖥️ **UI Integration:** A user-friendly frontend interface to interact with the database seamlessly.
-📊 **Advanced Reporting:** Implementing comprehensive reports on patient data, treatment history, and more.
-🔒 **Data Security:** Adding encryption layers to protect sensitive medical data.
-📅 **Scheduling and Appointments:** Future integration of patient appointment systems
+🖥️ **UI Integration:** 
+
+A user-friendly frontend interface to interact with the database seamlessly.
+
+📊 **Advanced Reporting:** 
+
+Implementing comprehensive reports on patient data, treatment history, and more.
+
+🔒 **Data Security:** 
+
+Adding encryption layers to protect sensitive medical data.
+
+📅 **Scheduling and Appointments:** 
+
+Future integration of patient appointment systems
 
 👨‍💻 **Conclusion**
-This** Hospital Management System** serves as an excellent foundational project to showcase your skills in relational databases and **SQL**. It demonstrates the ability to efficiently manage hospital-related data, offering a glimpse into how healthcare organizations can streamline patient data management with modern technology.
+
+This **Hospital Management System** serves as an excellent foundational project to showcase your skills in relational databases and **SQL**. It demonstrates the ability to efficiently manage hospital-related data, offering a glimpse into how healthcare organizations can streamline patient data management with modern technology.
 
 Feel free to fork this repository, contribute, or suggest improvements! 🚀
 
 🚀 **Connect with Me**
+
 https://www.linkedin.com/in/ali-raza-bhatti-85773472/
 
